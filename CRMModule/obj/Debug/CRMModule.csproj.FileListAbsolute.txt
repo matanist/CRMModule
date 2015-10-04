@@ -1,0 +1,6 @@
+C:\Users\FatihBaytar\Documents\Visual Studio 2013\Projects\OO\CRMModule\CRMModule\bin\Debug\CRMModule.exe.config
+C:\Users\FatihBaytar\Documents\Visual Studio 2013\Projects\OO\CRMModule\CRMModule\obj\Debug\CRMModule.csprojResolveAssemblyReference.cache
+C:\Users\FatihBaytar\Documents\Visual Studio 2013\Projects\OO\CRMModule\CRMModule\bin\Debug\CRMModule.exe
+C:\Users\FatihBaytar\Documents\Visual Studio 2013\Projects\OO\CRMModule\CRMModule\bin\Debug\CRMModule.pdb
+C:\Users\FatihBaytar\Documents\Visual Studio 2013\Projects\OO\CRMModule\CRMModule\obj\Debug\CRMModule.exe
+C:\Users\FatihBaytar\Documents\Visual Studio 2013\Projects\OO\CRMModule\CRMModule\obj\Debug\CRMModule.pdb
